@@ -53,7 +53,7 @@ const weekendDays = ["saturday", "sunday"];
 // console.log(weekendDays[0].toUpperCase());
 // output: "SATURDAY"
 
-// Yep! I was right, you have to specify what element you want to apply the method to. I would love to know why it thinks it's a funcion when you apply it to the whole array, though!
+// Yep! I was right, you have to specify what element you want to apply the method to. I would love to know why it thinks it's a function when you apply it to the whole array, though!
 
 // --------------------5) What will this log?
 

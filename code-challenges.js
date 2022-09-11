@@ -24,10 +24,10 @@ const fruit2 = "banana";
 // I need to use a conditional statement to accept the variable "temp" and compare it to the boiling point (212). I'll use an if / else statement for this purpose.
 // I need a relational operator to compare the two values. I'll need to answer three questions:
 // Is the temperature below the boiling point? (I can use less than (<) for this.)
-// Is the temperature the same as the boiling point? (I can use strict equality for this (===.))
+// Is the temperature the same as the boiling point? (I can use strict equality for this (===)).
 // Is the temperature above the boiling point? (I can use greater than (>) for this.)
 // After each block of code, I'll need to add a console.log to let the user know what the outcome will be.
-// After accounting for all three outcomes, I'll need to use the else statement to log an error message in case something goes wrong.
+// After accounting for all three possibilities, I'll need to use the else statement to log an error message in case something goes wrong.
 
 const temp = 42;
 // Expected output: "42 is below boiling point"
@@ -78,7 +78,7 @@ console.log(padresTotalRuns);
 // In order to reverse the letters in the string "Foxtrot 2022", I'll first need to:
 // Convert the data to an Array. I can do this with the .split() method.
 // Use the .reverse() method to reverse the locations of each of the elements.
-// Use the .join() method to convert the Array back into a string.
+// Use the .join() method to convert the array back into a string.
 // Wrap the code into a console.log() so that it's visible in the console.
 
 const currentCohort = "Foxtrot 2022";
@@ -118,7 +118,7 @@ console.log(myNumbers.lastIndexOf(givenValue1));
 // I had to do a little research to understand this one. Here's what I learned:
 // The .sort() method cannot automatically work on numbers. You have to give it an argument so that the logic will understand what result you want.
 // When the function runs, it's going to return a positive, negative, or 0 value.
-// As the function continues to subtract numbers from each other, it's going to order them from either negative or positive numbers first depending on what argument you pass it. For our case, I wanted it to start with negative (or descending) order, so I placed the second argument first in the function.
+// As the function continues to subtract numbers from each other, it's going to order them from either negative or positive numbers first depending on what argument you pass it. For our case, I wanted it to start with the negative integers, so I placed the second argument first in the function.
 
 const sanDiegoSummerTemperatures = [79, 80, 72, 73, 82, 77, 76];
 // Expected output: [82, 80, 79, 77, 76, 73, 72]

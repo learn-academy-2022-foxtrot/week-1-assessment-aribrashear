@@ -16,19 +16,19 @@ Researched answer:
 
 Your answer: Git is a program meant to store multiple versions of code so that you're able to track different versions of that code for bug solving and testing purposes. Git stands for Global Information Tracker, and it's the platform that Github runs on. So, Github is an interface that allows us to use the program called Git.
 
-Researched answer: Git is a version control system used for tracking and managing changes within your source code. It was originally created as an open-source program meant to make coordinating non-linear tasks between multiple programmers faster and easier. Github is a free, web-based service that allows you to easily access and manage Git repositories. Both Git and Github provide very valuable version-control functionality, and they work in conjunction to allow programmers to efficiently collaborate on projects.
+Researched answer: Git is a version control system used for tracking and managing changes within your source code. It was originally created as an open-source program meant to make coordinating non-linear tasks between multiple programmers faster and easier. Github is a web-based service that allows you to easily access and manage Git repositories. Both Git and Github provide very valuable version-control functionality, and they work in conjunction to allow programmers to efficiently collaborate on projects.
 
 2. Which JavaScript operators will return a Boolean value?
 
 Your answer: Comparison and logical operators are the Javascript operators that will return a Boolean value. These operators include the and (&&), or (||), and equality (===, ==) operators. These operators will return a Boolean value because they're comparing two pieces of data to check how they're related to each other, and then returning either a true or false value based on the result.
 
-Researched answer: Both comparison and logical operators will return Boolean values. The logical AND operator (&&) returns a boolean value after it checks to see of a set of boolean operands are BOTH true. The logical OR (||) operator checks to see if a set of operands is true, but will return a boolean value of TRUE even if only one of the operands is true. The strict and loose equality operators check to see if two operands are equal, and will return a boolean value based on the result or that operation. All of these operators return boolean values because, in essence, you're asking them to evaluate whether the relation between two pieces of information is true or false.
+Researched answer: Both comparison and logical operators will return Boolean values. The logical AND operator (&&) returns a boolean value after it checks to see of a set of boolean operands are BOTH true. The logical OR (||) operator checks to see if a set of operands is true, but will return a boolean value of TRUE even if only one of the operands is true. The strict and loose equality operators check to see if two operands are equal, and will return a boolean value based on the result of that operation. All of these operators return boolean values because, in essence, you're asking them to evaluate whether the relation between two pieces of information is true or false.
 
 3. What is an index? What is the difference between index and value?
 
 Your answer: An index is the specific location where a value is stored inside of an array. Indexes are 0-based, which means that the first element inside of an array will have an index of 0. A value is simply the data that an element (or variable) is holding, and we can use the index of that element in order to access its value.
 
-Researched answer: An index is the specific location of an element inside of an array. A value is simply the data that element contains, which can include things like numbers, strings, and booleans. We can use the index of an element to access the data that it's holding, much like we can call upon a variable to access its declared value.
+Researched answer: An index is the specific location of an element inside of an array. A value is simply the data that element stores, which can include things like numbers, strings, and booleans. We can use the index of an element to access the data that it's holding, much like we can call upon a variable to access its declared value.
 
 4. Compare and contrast arrays and strings.
 
